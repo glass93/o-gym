@@ -1,17 +1,9 @@
 <p align="center">
-    <img src="/uploads/fb20fd2eb8d0b25111045109da7b0398/OGYM_로고-removebg-preview.png" alt="OGYM_로고-removebg-preview" width="298">    
+    <img src="https://user-images.githubusercontent.com/72074545/141287890-6aba8136-78f5-468b-9424-e8981510f6da.png" alt="OGYM_로고-removebg-preview" width="298">    
 </p>
 <p align="center">
     SSAFY 2학기 공통 프로젝트 - OGYM
 </p>
-
-## Quick Links 
-
-- [OGYM이란?](#o-gym) 
-- [프로젝트 목표](#프로젝트-목표)
-- [기술스택](#기술-스택)
-- [WIKI 문서](#wiki)
-- [Architecture](#architecture)
 
 # O-GYM
 
@@ -36,18 +28,19 @@ COVID-19로 인해 UN-TACT 시대가 열렸고, 또한 건강을 유지하는 �
 
 ------
 
-![기술스택](/uploads/777ee54b4b58eb5e659bc9c026cd1284/기술스택.png)
+![기술스택](https://user-images.githubusercontent.com/72074545/141288499-7d476b08-35dc-45e2-a6aa-58433d306be3.png)
 
 
 
-# WIKI
-
-------
-
-프로젝트의 모든 정보는 [WIKI](https://lab.ssafy.com/s05-webmobile1-sub3/S05P13B305/-/wikis/Home)를 통해 참고하실 수 있습니다.
 
 # Architecture
 
---- 
+------
+![SSAFY_1_-_공통_프로젝트_architecture_2](https://user-images.githubusercontent.com/72074545/141289347-40dc30f3-83f0-46e5-a59e-c637b58dcc63.png)
+
+![SSAFY_1_-_공통_프로젝트_Architeture__3_](https://user-images.githubusercontent.com/72074545/141289395-4dc7c69e-db7a-4dfc-8bc4-9cc20120fb04.png)
+
+![SSAFY_1_-_공통_CI-CD_파이프라인__5_](https://user-images.githubusercontent.com/72074545/141289421-3e2480ec-a225-4a25-982d-1186df339242.png)
+
 
 
